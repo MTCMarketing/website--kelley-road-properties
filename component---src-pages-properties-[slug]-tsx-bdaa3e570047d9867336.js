@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkkelley_roads_property_management=self.webpackChunkkelley_roads_property_management||[]).push([[666],{9954:function(e,a,n){n.r(a),n.d(a,{Head:function(){return r}});var t=n(8119);a.default=t.default;const r=t.Head}}]);
+//# sourceMappingURL=component---src-pages-properties-[slug]-tsx-bdaa3e570047d9867336.js.map
